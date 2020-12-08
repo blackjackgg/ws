@@ -53,3 +53,5 @@ try:  #进程退出关闭chrome 释放内存
     openurl(url)
 except:
     chrome.quit()
+
+##  selenium 适合加密文本难以破解的 ws消息协议的操作
